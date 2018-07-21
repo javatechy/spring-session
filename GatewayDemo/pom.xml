@@ -65,8 +65,8 @@
 
 
 		<!-- Spring -->
-		<spring-framework.version>4.0.5.RELEASE</spring-framework.version>
-		<spring-security.version>4.0.1.RELEASE</spring-security.version>
+		<spring-framework.version>4.3.15.RELEASE</spring-framework.version>
+		<spring-security.version>4.1.4.RELEASE</spring-security.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
@@ -215,7 +215,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.35</version>
+			<version>5.1.42</version>
 		</dependency>
 		<!-- <dependency> <groupId>com.demo</groupId> <artifactId>ServiceDemoJar</artifactId> 
 			<version>0.0.1-SNAPSHOT</version> </dependency> -->
@@ -322,7 +322,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.35</version>
+			<version>5.1.42</version>
 		</dependency>
 
 		<dependency>
