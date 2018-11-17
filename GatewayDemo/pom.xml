@@ -66,7 +66,7 @@
 
 		<!-- Spring -->
 		<spring-framework.version>4.0.5.RELEASE</spring-framework.version>
-		<spring-security.version>4.0.1.RELEASE</spring-security.version>
+		<spring-security.version>4.2.3.RELEASE</spring-security.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
@@ -198,7 +198,7 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
-			<version>2.5.4</version>
+			<version>2.9.7</version>
 		</dependency>
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
