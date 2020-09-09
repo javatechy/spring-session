@@ -69,7 +69,7 @@
 		<spring-security.version>4.0.1.RELEASE</spring-security.version>
 
 		<!-- Hibernate / JPA -->
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>5.3.18.Final</hibernate.version>
 
 		<slf4j.version>1.7.5</slf4j.version>
 
