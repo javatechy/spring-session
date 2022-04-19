@@ -66,7 +66,7 @@
 
 		<!-- Spring -->
 		<spring-framework.version>4.0.5.RELEASE</spring-framework.version>
-		<spring-security.version>4.0.1.RELEASE</spring-security.version>
+		<spring-security.version>5.5.6</spring-security.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
@@ -97,7 +97,7 @@
 		<dependency>
 			<groupId>org.springframework.session</groupId>
 			<artifactId>spring-session-data-redis</artifactId>
-			<version>1.0.1.RELEASE</version>
+			<version>2.5.6</version>
 			<type>pom</type>
 		</dependency>
 		<!-- Spring Web -->
