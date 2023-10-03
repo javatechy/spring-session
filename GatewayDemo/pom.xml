@@ -69,7 +69,7 @@
 		<spring-security.version>4.0.1.RELEASE</spring-security.version>
 
 		<!-- Hibernate / JPA -->
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>5.1.17.Final</hibernate.version>
 
 		<slf4j.version>1.7.5</slf4j.version>
 
@@ -97,7 +97,7 @@
 		<dependency>
 			<groupId>org.springframework.session</groupId>
 			<artifactId>spring-session-data-redis</artifactId>
-			<version>1.0.1.RELEASE</version>
+			<version>1.2.0.RELEASE</version>
 			<type>pom</type>
 		</dependency>
 		<!-- Spring Web -->
@@ -144,7 +144,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.5</version>
+			<version>1.7.34</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
@@ -264,7 +264,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.5</version>
+			<version>1.7.34</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
