@@ -66,7 +66,7 @@
 
 		<!-- Spring -->
 		<spring-framework.version>4.0.5.RELEASE</spring-framework.version>
-		<spring-security.version>4.0.1.RELEASE</spring-security.version>
+		<spring-security.version>5.7.12</spring-security.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
