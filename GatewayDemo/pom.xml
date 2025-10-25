@@ -97,7 +97,7 @@
 		<dependency>
 			<groupId>org.springframework.session</groupId>
 			<artifactId>spring-session-data-redis</artifactId>
-			<version>1.0.1.RELEASE</version>
+			<version>3.4.6</version>
 			<type>pom</type>
 		</dependency>
 		<!-- Spring Web -->
